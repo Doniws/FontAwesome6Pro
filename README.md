@@ -16,6 +16,10 @@ Or if you get Local you can get
 ```
 <link rel="stylesheet" href="FontAwesome6Pro/pro/css/all.css">
 ```
+or 
+```
+<link rel="stylesheet" href="FontAwesome6Pro-main">
+````
 <br>
 Should get all.css for use fontawesome
  letakan di head
