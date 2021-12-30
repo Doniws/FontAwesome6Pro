@@ -18,7 +18,7 @@ Or if you get Local you can get
 ```
 or 
 ```
-<link rel="stylesheet" href="FontAwesome6Pro-main">
+<link rel="stylesheet" href="FontAwesome6Pro-main/pro/css/all.css">
 ````
 <br>
 Should get all.css for use fontawesome
