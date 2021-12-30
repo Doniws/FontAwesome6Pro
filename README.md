@@ -6,15 +6,16 @@ CLONING THIS REPOSITORY
 
 You can use with this method<br>
 
-this for use with cdn
+This for use with cdn:
+<br>
 ```
-    <link rel="stylesheet" href="https://doniws.github.io/FontAwesome6Pro/pro/css/all.css" >
+<link rel="stylesheet" href="https://doniws.github.io/FontAwesome6Pro/pro/css/all.css" >
  ```
 
 Or if you get Local you can get 
 ```
 <link rel="stylesheet" href="FontAwesome6Pro/pro/css/all.css">
 ```
-
+<br>
 Should get all.css for use fontawesome
  letakan di head
