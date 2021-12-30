@@ -2,9 +2,9 @@
 
 
 **Ini digunakan secara personal tapi ini bisa digunakan**
-CLONING REPOSITORY INI
+CLONING THIS REPOSITORY
 
-atau juga bisa mengguanak dengan menggunakan <br>
+You can use with this method<br>
 
 this for use with cdn
 ```
