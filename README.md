@@ -21,6 +21,7 @@ or
 <link rel="stylesheet" href="FontAwesome6Pro-main/pro/css/all.css">
 ````
 <br>
+
 Should get all.css for use fontawesome<br>
-**Put on the 
-```<head>``` tag**
+**Remember Put on the HEAD tag**<br>
+
