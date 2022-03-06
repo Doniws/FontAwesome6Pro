@@ -1,9 +1,9 @@
 # FontAwesome6Pro
 
 
-**Ini digunakan secara personal tapi ini bisa digunakan**
-CLONING THIS REPOSITORY
-
+**ITS use personal but people can use it too**<br>
+CLONING THIS REPOSITORY IF YOU GET LOCAL OR OFFLINE
+<br>
 You can use with this method<br>
 
 This for use with cdn:
@@ -21,5 +21,6 @@ or
 <link rel="stylesheet" href="FontAwesome6Pro-main/pro/css/all.css">
 ````
 <br>
-Should get all.css for use fontawesome
- letakan di head
+Should get all.css for use fontawesome<br>
+**Put on the 
+```<head>``` tag**
