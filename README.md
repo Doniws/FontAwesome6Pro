@@ -25,3 +25,4 @@ or
 Should get all.css for use fontawesome<br>
 **Remember Put on the HEAD tag**<br>
 
+**Enjoy 16.000 Font**
